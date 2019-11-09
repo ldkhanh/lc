@@ -1,4 +1,4 @@
-package com.khanh.leetcode.twoPointer;
+package com.khanh.leetcode.twoPointers;
 
 /**
 *

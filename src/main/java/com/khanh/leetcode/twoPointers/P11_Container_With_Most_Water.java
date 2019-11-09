@@ -1,4 +1,4 @@
-package com.khanh.leetcode.twoPointer;
+package com.khanh.leetcode.twoPointers;
 
 /**
  * https://leetcode.com/problems/container-with-most-water/
