@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aa2a0cf-6e59-4ad4-8093-7777e709e0c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/depthFirstSearch/P332_Reconstruct_Itinerary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/design/P341_Flatten_Nested_List_Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/divideAndConquer/P973_K_Closest_Points_to_Origin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/hashTable/P36_Valid_Sudoku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/sort/P56_Merge_Intervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/string/P227_Basic_Calculator_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/twoPointers/P986_Interval_List_Intersections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/unionFind/P200_Number_of_Islands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/backtracking/P17_Letter_Combinations_of_a_Phone_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/binarySearch/P528_Random_Pick_with_Weight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/breathFirstSearch/P286_Walls_and_Gates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/dynamicProgramming/P139_Word_Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/hashTable/P166_Fraction_to_Recurring_Decimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/hashTable/P49_Group_Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/trie/P_212_Word_Search_II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/twoPointer/P11_Container_With_Most_Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/twoPointers/P11_Container_With_Most_Water.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/twoPointer/P15_3Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/twoPointers/P15_3Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/twoPointer/P344_Reverse_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/twoPointers/P344_Reverse_String.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +111,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572994448222</updated>
-      <workItem from="1572994450273" duration="29776000" />
+      <workItem from="1572994450273" duration="30401000" />
+      <workItem from="1573499104835" duration="2872000" />
+      <workItem from="1573509851792" duration="1385000" />
+      <workItem from="1573565836093" duration="5712000" />
     </task>
     <servers />
   </component>
@@ -129,7 +126,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
