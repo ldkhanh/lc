@@ -74,9 +74,10 @@ public class P_212_Word_Search_II {
         }
         return root;
     }
-}
 
-class TrieNode {
-    TrieNode[] next = new TrieNode[26];
-    String word;
+
+    class TrieNode {
+        TrieNode[] next = new TrieNode[26];
+        String word;
+    }
 }
