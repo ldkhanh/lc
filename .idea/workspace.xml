@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aa2a0cf-6e59-4ad4-8093-7777e709e0c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/array/P245_Shortest_Word_Distance_III.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/dynamicProgramming/P152_Maximum_Product_Subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/design/P380_Insert_Delete_GetRandom_O1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/design/P381_Insert_Delete_GetRandom_O1_Duplicates_allowed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/dynamicProgramming/P464_Can_I_Win.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/dynamicProgramming/P516_Longest_Palindromic_Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/dynamicProgramming/P698_Partition_to_K_Equal_Sum_Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/dynamicProgramming/P72_Edit_Distance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BSTIteratorTest">
+  <component name="RunManager" selected="Application.P464_Can_I_Win">
     <configuration name="BSTIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.design.BSTIteratorTest" />
       <module name="leetcode" />
@@ -94,8 +98,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P464_Can_I_Win" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.dynamicProgramming.P464_Can_I_Win" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khanh.leetcode.dynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P516_Longest_Palindromic_Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.dynamicProgramming.P516_Longest_Palindromic_Subsequence" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khanh.leetcode.dynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P464_Can_I_Win" />
+        <item itemvalue="Application.P516_Longest_Palindromic_Subsequence" />
         <item itemvalue="Application.BSTIteratorTest" />
         <item itemvalue="Application.P227_Basic_Calculator_II" />
       </list>
@@ -125,7 +157,7 @@
       <workItem from="1573565836093" duration="19214000" />
       <workItem from="1573775234926" duration="12041000" />
       <workItem from="1575751036717" duration="7194000" />
-      <workItem from="1576175979123" duration="10523000" />
+      <workItem from="1576175979123" duration="22615000" />
     </task>
     <servers />
   </component>
@@ -152,6 +184,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/khanh/leetcode/design/P173_Binary_Search_Tree_Iterator.java</url>
           <line>52</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/khanh/leetcode/dynamicProgramming/P516_Longest_Palindromic_Subsequence.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/khanh/leetcode/dynamicProgramming/P464_Can_I_Win.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/khanh/leetcode/dynamicProgramming/P464_Can_I_Win.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
