@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aa2a0cf-6e59-4ad4-8093-7777e709e0c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/design/P380_Insert_Delete_GetRandom_O1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/design/P381_Insert_Delete_GetRandom_O1_Duplicates_allowed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/dynamicProgramming/P464_Can_I_Win.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/dynamicProgramming/P516_Longest_Palindromic_Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/dynamicProgramming/P698_Partition_to_K_Equal_Sum_Subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/dynamicProgramming/P72_Edit_Distance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/algorithm/sort/P01_MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/stack/P739_Daily_Temperatures.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,6 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -71,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P464_Can_I_Win">
+  <component name="RunManager" selected="Application.P01_MergeSort">
     <configuration name="BSTIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.design.BSTIteratorTest" />
       <module name="leetcode" />
@@ -85,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P227_Basic_Calculator_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.string.P227_Basic_Calculator_II" />
+    <configuration name="P01_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khanh.algorithm.sort.P01_MergeSort" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.khanh.leetcode.string.*" />
+          <option name="PATTERN" value="com.khanh.algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +121,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P739_Daily_Temperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.stack.P739_Daily_Temperatures" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khanh.leetcode.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P01_MergeSort" />
+        <item itemvalue="Application.P739_Daily_Temperatures" />
         <item itemvalue="Application.P464_Can_I_Win" />
         <item itemvalue="Application.P516_Longest_Palindromic_Subsequence" />
         <item itemvalue="Application.BSTIteratorTest" />
-        <item itemvalue="Application.P227_Basic_Calculator_II" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +168,9 @@
       <workItem from="1573565836093" duration="19214000" />
       <workItem from="1573775234926" duration="12041000" />
       <workItem from="1575751036717" duration="7194000" />
-      <workItem from="1576175979123" duration="22615000" />
+      <workItem from="1576175979123" duration="25833000" />
+      <workItem from="1577990099233" duration="599000" />
+      <workItem from="1589007836378" duration="977000" />
     </task>
     <servers />
   </component>
@@ -199,6 +212,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/khanh/leetcode/dynamicProgramming/P464_Can_I_Win.java</url>
           <line>45</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/khanh/leetcode/stack/P739_Daily_Temperatures.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
