@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aa2a0cf-6e59-4ad4-8093-7777e709e0c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/algorithm/sort/MatrixDiagonalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/algorithm/sort/P02_BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/algorithm/sort/P03_InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/interview/ConstructMatrix_Google_Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/interview/ConstructMatrix_Google_Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/interview/ConstructMatrix_Google_Phone.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +67,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MatrixDiagonalSum">
+  <component name="RunManager" selected="Application.ConstructMatrix_Google_Phone">
+    <configuration name="ConstructMatrix_Google_Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.interview.ConstructMatrix_Google_Phone" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khanh.leetcode.interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MatrixDiagonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.khanh.algorithm.sort.MatrixDiagonalSum" />
       <module name="leetcode" />
@@ -124,26 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P739_Daily_Temperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.stack.P739_Daily_Temperatures" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.khanh.leetcode.stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructMatrix_Google_Phone" />
         <item itemvalue="Application.MatrixDiagonalSum" />
         <item itemvalue="Application.P03_InsertionSort" />
         <item itemvalue="Application.P02_BinarySearch" />
         <item itemvalue="Application.P01_MergeSort" />
-        <item itemvalue="Application.P739_Daily_Temperatures" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +174,7 @@
       <workItem from="1589421298599" duration="654000" />
       <workItem from="1590103670634" duration="556000" />
       <workItem from="1591468786182" duration="343000" />
-      <workItem from="1591936285395" duration="139000" />
+      <workItem from="1591936285395" duration="2557000" />
     </task>
     <servers />
   </component>
