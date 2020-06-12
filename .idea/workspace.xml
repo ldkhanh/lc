@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aa2a0cf-6e59-4ad4-8093-7777e709e0c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/algorithm/sort/P01_MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/stack/P739_Daily_Temperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/algorithm/sort/MatrixDiagonalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/algorithm/sort/P02_BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/algorithm/sort/P03_InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/interview/ConstructMatrix_Google_Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,13 +71,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P01_MergeSort">
-    <configuration name="BSTIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.design.BSTIteratorTest" />
+  <component name="RunManager" selected="Application.MatrixDiagonalSum">
+    <configuration name="MatrixDiagonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khanh.algorithm.sort.MatrixDiagonalSum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.khanh.leetcode.design.*" />
+          <option name="PATTERN" value="com.khanh.algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P464_Can_I_Win" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.dynamicProgramming.P464_Can_I_Win" />
+    <configuration name="P02_BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khanh.algorithm.sort.P02_BinarySearch" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.khanh.leetcode.dynamicProgramming.*" />
+          <option name="PATTERN" value="com.khanh.algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P516_Longest_Palindromic_Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.dynamicProgramming.P516_Longest_Palindromic_Subsequence" />
+    <configuration name="P03_InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khanh.algorithm.sort.P03_InsertionSort" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.khanh.leetcode.dynamicProgramming.*" />
+          <option name="PATTERN" value="com.khanh.algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixDiagonalSum" />
+        <item itemvalue="Application.P03_InsertionSort" />
+        <item itemvalue="Application.P02_BinarySearch" />
         <item itemvalue="Application.P01_MergeSort" />
         <item itemvalue="Application.P739_Daily_Temperatures" />
-        <item itemvalue="Application.P464_Can_I_Win" />
-        <item itemvalue="Application.P516_Longest_Palindromic_Subsequence" />
-        <item itemvalue="Application.BSTIteratorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +173,12 @@
       <workItem from="1575751036717" duration="7194000" />
       <workItem from="1576175979123" duration="25833000" />
       <workItem from="1577990099233" duration="599000" />
-      <workItem from="1589007836378" duration="977000" />
+      <workItem from="1589007836378" duration="2014000" />
+      <workItem from="1589215920987" duration="5000" />
+      <workItem from="1589421298599" duration="654000" />
+      <workItem from="1590103670634" duration="556000" />
+      <workItem from="1591468786182" duration="343000" />
+      <workItem from="1591936285395" duration="139000" />
     </task>
     <servers />
   </component>
