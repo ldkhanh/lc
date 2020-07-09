@@ -1,4 +1,4 @@
-package com.khanh.leetcode.interview;
+package com.khanh.leetcode.interview.google;
 
 import java.util.Arrays;
 
@@ -36,11 +36,11 @@ import java.util.Arrays;
  * 		2  5  8
  * 		3  4  9
  */
-public class ConstructMatrix_Google_Phone{
+public class ConstructMatrix {
     public static void main(String[] args) {
         StartPosition start = StartPosition.TR;
         Direction d = Direction.H;
-        ConstructMatrix_Google_Phone cm = new ConstructMatrix_Google_Phone();
+        ConstructMatrix cm = new ConstructMatrix();
         cm.constructMatrix(3, 3, start, d);
         for (int[] row : cm.result)
             System.out.println(Arrays.toString(row));

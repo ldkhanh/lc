@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aa2a0cf-6e59-4ad4-8093-7777e709e0c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/graph/TravelingSalesmanHeldKarp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/interview/google/Find_Index_of_Extra_Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/interview/google/Solve_Series_Of_Arithemetic_Equations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/interview/ConstructMatrix_Google_Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/interview/ConstructMatrix_Google_Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/interview/ConstructMatrix_Google_Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/interview/google/ConstructMatrix.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,13 +70,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConstructMatrix_Google_Phone">
-    <configuration name="ConstructMatrix_Google_Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.interview.ConstructMatrix_Google_Phone" />
+  <component name="RunManager" selected="Application.ConstructMatrix">
+    <configuration name="ConstructMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.interview.google.ConstructMatrix" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.khanh.leetcode.interview.*" />
+          <option name="PATTERN" value="com.khanh.leetcode.interview.google.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,7 +138,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConstructMatrix_Google_Phone" />
         <item itemvalue="Application.MatrixDiagonalSum" />
         <item itemvalue="Application.P03_InsertionSort" />
         <item itemvalue="Application.P02_BinarySearch" />
@@ -174,7 +176,8 @@
       <workItem from="1589421298599" duration="654000" />
       <workItem from="1590103670634" duration="556000" />
       <workItem from="1591468786182" duration="343000" />
-      <workItem from="1591936285395" duration="2557000" />
+      <workItem from="1591936285395" duration="3735000" />
+      <workItem from="1594275489927" duration="4074000" />
     </task>
     <servers />
   </component>
