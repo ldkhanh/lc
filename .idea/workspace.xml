@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2aa2a0cf-6e59-4ad4-8093-7777e709e0c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/graph/TravelingSalesmanHeldKarp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/interview/google/Find_Index_of_Extra_Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/interview/google/Solve_Series_Of_Arithemetic_Equations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/depthFirstSearch/P1192_Critical_Connections_in_a_Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/twoPointers/P42_Trapping_Rain_Water.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/interview/ConstructMatrix_Google_Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/khanh/leetcode/interview/google/ConstructMatrix.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,10 +30,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -41,7 +43,12 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -54,51 +61,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ConstructMatrix">
-    <configuration name="ConstructMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.interview.google.ConstructMatrix" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.khanh.leetcode.interview.google.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P42_Trapping_Rain_Water">
     <configuration name="MatrixDiagonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.khanh.algorithm.sort.MatrixDiagonalSum" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.khanh.algorithm.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P01_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.khanh.algorithm.sort.P01_MergeSort" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -136,23 +106,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P42_Trapping_Rain_Water" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.twoPointers.P42_Trapping_Rain_Water" />
+      <module name="lc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khanh.leetcode.twoPointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TEst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khanh.leetcode.depthFirstSearch.TEst" />
+      <module name="lc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khanh.leetcode.depthFirstSearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P42_Trapping_Rain_Water" />
+        <item itemvalue="Application.TEst" />
         <item itemvalue="Application.MatrixDiagonalSum" />
         <item itemvalue="Application.P03_InsertionSort" />
         <item itemvalue="Application.P02_BinarySearch" />
-        <item itemvalue="Application.P01_MergeSort" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SbtLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../Spark/SimpleApp" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../WM/catalog-platform-source-input-stream" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -178,24 +179,49 @@
       <workItem from="1591468786182" duration="343000" />
       <workItem from="1591936285395" duration="3735000" />
       <workItem from="1594275489927" duration="4074000" />
+      <workItem from="1603522205433" duration="474000" />
+      <workItem from="1604731589896" duration="2436000" />
+      <workItem from="1606976018493" duration="1477000" />
+      <workItem from="1611375948680" duration="2567000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="182" key="#com.intellij.ide.util.MemberChooser" timestamp="1606976837496">
+      <screen x="73" y="25" width="1367" height="875" />
+    </state>
+    <state x="569" y="182" key="#com.intellij.ide.util.MemberChooser/73.25.1367.875@73.25.1367.875" timestamp="1606976837496" />
+    <state width="1325" height="195" key="GridCell.Tab.0.bottom" timestamp="1611385557967">
+      <screen x="73" y="25" width="1367" height="875" />
+    </state>
+    <state width="1325" height="195" key="GridCell.Tab.0.bottom/73.25.1367.875@73.25.1367.875" timestamp="1611385557967" />
+    <state width="1325" height="195" key="GridCell.Tab.0.center" timestamp="1611385557966">
+      <screen x="73" y="25" width="1367" height="875" />
+    </state>
+    <state width="1325" height="195" key="GridCell.Tab.0.center/73.25.1367.875@73.25.1367.875" timestamp="1611385557966" />
+    <state width="1325" height="195" key="GridCell.Tab.0.left" timestamp="1611385557965">
+      <screen x="73" y="25" width="1367" height="875" />
+    </state>
+    <state width="1325" height="195" key="GridCell.Tab.0.left/73.25.1367.875@73.25.1367.875" timestamp="1611385557965" />
+    <state width="1325" height="195" key="GridCell.Tab.0.right" timestamp="1611385557966">
+      <screen x="73" y="25" width="1367" height="875" />
+    </state>
+    <state width="1325" height="195" key="GridCell.Tab.0.right/73.25.1367.875@73.25.1367.875" timestamp="1611385557966" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

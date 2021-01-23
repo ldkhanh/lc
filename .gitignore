@@ -35,3 +35,6 @@ hs_err_pid*
 src/main/resources/
 src/test/
 target
+
+.idea/compiler.xml
+.idea/workspace.xml
